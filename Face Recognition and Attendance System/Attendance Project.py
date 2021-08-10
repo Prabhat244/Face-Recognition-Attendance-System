@@ -4,7 +4,7 @@ import face_recognition
 import os
 from datetime import datetime
 
-path = '/Face Recognition and Attendance System/Input Images'
+path = 'https://github.com/Prabhat244/Face-Recognition-Attendance-System/tree/main/Face%20Recognition%20and%20Attendance%20System/Input%20Images'
 images = []
 classNames = []
 myList = os.listdir(path)
